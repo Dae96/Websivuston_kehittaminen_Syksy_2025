@@ -1,0 +1,19 @@
+.header {
+    background-color: darkseagreen;
+    text-align:center;
+    padding: 80px;
+}
+
+.footer {
+    background-color: darkgrey;
+    text-align:center;
+    padding: 50px;
+}
+
+.pyhis {
+    float: right;
+}
+
+#pyhe {
+    background-color: rgb(209, 221, 213);
+}
